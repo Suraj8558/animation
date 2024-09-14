@@ -2471,11 +2471,6 @@ matchmediaquery@^0.4.2:
   dependencies:
     css-mediaquery "^0.1.2"
 
-math@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/math/-/math-0.0.3.tgz#85b020fd54ce10b26abeabfcd7e1f4bdbc46470f"
-  integrity sha512-xyNJxsEwpYBabFmCgwg7TFRljf5oGgV2h1TqP0H9RnykScaSKgoVlBaEz+Gov8NOdxFagoTzRg1aEBfayi8qQQ==
-
 merge-value@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/merge-value/-/merge-value-1.0.0.tgz#d28f8d41c0b37426e032d1059a0d0343302de502"
