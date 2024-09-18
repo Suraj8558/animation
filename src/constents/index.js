@@ -58,10 +58,10 @@ export const clientReviews = [
 
 export const myProjects = [
   {
-    title: 'Podcastr - AI Podcast Platform',
-    desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
+    title: 'rwit.io  - A Dynamic Content Platform',
+    desc: 'rwit.io is an innovative content platform designed to deliver engaging experiences using modern web technologies. Built with Next.js for optimal performance and SEO, the site leverages Storyblok as a headless CMS, allowing for flexible content management and rapid updates. Utilizing GraphQL for efficient data fetching, rwit.io provides a seamless and dynamic user experience.',
     subdesc:
-      'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
+      'Built with Storyblok, Next.js, SCSS, and GraphQL. rwit.io is a dynamic content platform that offers real-time content management, responsive design, and fast performance, delivering an engaging user experience.',
     href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
